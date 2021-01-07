@@ -1,7 +1,8 @@
 import React from 'react';
+
 import './App.css';
 
-function App() {
+const App: React.FC = (): JSX.Element => {
   return (
     <div>Hello World</div>
   );
